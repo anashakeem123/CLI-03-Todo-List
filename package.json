@@ -4,7 +4,7 @@
   "description": "This is a CLI Todo List use Typescript Node.js/inquirer.",
   "main": "index.js",
   "type": "module",
-  "bin": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
