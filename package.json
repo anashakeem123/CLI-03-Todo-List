@@ -1,0 +1,20 @@
+{
+  "name": "cli-03-todo-list",
+  "version": "1.0.1",
+  "description": "This is a CLI Todo List use Typescript Node.js/inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anas Hakeem",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
